@@ -10,7 +10,7 @@ const question2 = {
 };
 const question1 = {
   "Flexible Panel Design, expand for explanation":
-    "These panels come from an object in the JavaScript code. As more objects appear in forms of questions, Javascript will use 'insetAdjacentHTML' to create a new panel.",
+    "These panels come from an object in the JavaScript code. As more objects appear in forms of questions, Javascript will use 'insertAdjacentHTML' to create a new panel.",
 };
 const questions = [question1, question2, question3];
 
